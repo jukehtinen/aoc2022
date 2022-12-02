@@ -14,4 +14,4 @@ table.sort(elfs)
 print("Part 1: " .. elfs[#elfs])
 
 -- Part 2
-print("Part 1: " .. elfs[#elfs] + elfs[#elfs - 1] + elfs[#elfs - 2])
+print("Part 2: " .. elfs[#elfs] + elfs[#elfs - 1] + elfs[#elfs - 2])
